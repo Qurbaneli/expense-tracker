@@ -14,8 +14,6 @@ form.addEventListener("submit",function(e){
         if(amount.value!=0)
         {
             
-            
-
             if(amount.value>0)
             {
                 list.innerHTML+=`<li class="plus">
